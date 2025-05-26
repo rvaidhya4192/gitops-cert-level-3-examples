@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Good commit`
+=======
+Good commit
+>>>>>>> b25db8bb911deafe811e2bf2a597992e9d1ae4b0
 
 Codefresh GitOps Certification examples - Level 3 - GitOps Enterprise
 
